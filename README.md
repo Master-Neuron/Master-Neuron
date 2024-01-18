@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Machine Learning , Deep Learning, Image Processing , Computer Vision, Natural language Processing**
 
-- 📫 How to reach me **shubhamchaudhary@ineuron.ai**
+- 📫 How to reach me **shubham.chaudhary@pw.live**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
